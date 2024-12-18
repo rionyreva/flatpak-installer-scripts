@@ -10,8 +10,19 @@ You can check the contents of the script before executing it by clicking on the 
 curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-tools-installer.sh  | bash
 ```
 
-- [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal) # Manage Flatpak permissions.
-- [Flatsweep](https://flathub.org/apps/io.github.giantpinkrobots.flatsweep) # Flatpak leftover cleaner.
+- ![flatseal.png](icons/flatseal.png) [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal) # Manage Flatpak permissions.
+- ![flatsweep.png](icons/flatsweep.png) [Flatsweep](https://flathub.org/apps/io.github.giantpinkrobots.flatsweep) # Flatpak leftover cleaner.
+
+## [flatpak-browser-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-browser-installer.sh)
+
+```
+curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-browser-installer.sh  | bash
+```
+
+- ![brave.png](icons/brave.png) [Brave](https://flathub.org/apps/com.brave.Browser)
+- ![librewolf.png](icons/librewolf.png) [LibreWolf](https://flathub.org/apps/io.gitlab.librewolf-community)
+- ![mullvad-browser.png](icons/mullvad-browser.png) [Mullvad Browser](https://flathub.org/apps/net.mullvad.MullvadBrowser)
+- ![tor-browser.png](icons/tor-browser.png) [Tor Browser](https://flathub.org/apps/org.torproject.torbrowser-launcher)
 
 ## [flatpak-gaming-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-gaming-installer.sh)
 
@@ -19,18 +30,18 @@ curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/
 curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-gaming-installer.sh  | bash
 ```
 
-- [Bolt Launcher](https://flathub.org/apps/com.adamcake.Bolt)
-- [Bottles](https://flathub.org/apps/com.usebottles.bottles)
-- [Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl)
-- [Lutris](https://flathub.org/apps/net.lutris.Lutris)
-- [Modrinth App](https://flathub.org/apps/com.modrinth.ModrinthApp)
-- [PokeMMO](https://flathub.org/apps/com.pokemmo.PokeMMO)
-- [Prism Launcher](https://flathub.org/apps/org.prismlauncher.PrismLauncher)
-- [ProtonUp-Qt](https://flathub.org/apps/net.davidotek.pupgui2)
-- [Space Cadet Pinball](https://flathub.org/apps/com.github.k4zmu2a.spacecadetpinball)
-- [Steam](https://flathub.org/apps/com.valvesoftware.Steam)
-- [Steam Link](https://flathub.org/apps/com.valvesoftware.SteamLink)
-- [itch](https://flathub.org/apps/io.itch.itch)
+- ![bolt-launcher.png](icons/bolt-launcher.png) [Bolt Launcher](https://flathub.org/apps/com.adamcake.Bolt)
+- ![bottles.png](icons/bottles.png) [Bottles](https://flathub.org/apps/com.usebottles.bottles)
+- ![heroic-games-launcher.png](icons/heroic-games-launcher.png) [Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl)
+- ![lutris.png](icons/lutris.png) [Lutris](https://flathub.org/apps/net.lutris.Lutris)
+- ![modrinth-app.png](icons/modrinth-app.png) [Modrinth App](https://flathub.org/apps/com.modrinth.ModrinthApp)
+- ![pokemmo.png](icons/pokemmo.png) [PokeMMO](https://flathub.org/apps/com.pokemmo.PokeMMO)
+- ![prism-launcher.png](icons/prism-launcher.png) [Prism Launcher](https://flathub.org/apps/org.prismlauncher.PrismLauncher)
+- ![protonup-qt](icons/protonup-qt.png) [ProtonUp-Qt](https://flathub.org/apps/net.davidotek.pupgui2)
+- ![space-cadet-pinball.png](icons/space-cadet-pinball.png) [Space Cadet Pinball](https://flathub.org/apps/com.github.k4zmu2a.spacecadetpinball)
+- ![steam.png](icons/steam.png) [Steam](https://flathub.org/apps/com.valvesoftware.Steam)
+- ![steam-link.png](icons/steam-link.png) [Steam Link](https://flathub.org/apps/com.valvesoftware.SteamLink)
+- ![itch.png](icons/itch.png) [itch](https://flathub.org/apps/io.itch.itch)
 
 ## [flatpak-emulator-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-emulator-installer.sh)
 
@@ -38,17 +49,17 @@ curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/
 curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-gaming-installer.sh  | bash
 ```
 
-- [DeSmuME](https://flathub.org/apps/org.desmume.DeSmuME)
-- [Dolphin Emulator](https://flathub.org/apps/org.DolphinEmu.dolphin-emu)
-- [DuckStation](https://flathub.org/apps/org.duckstation.DuckStation)
-- [MAME](https://flathub.org/apps/org.mamedev.MAME)
-- [Nestopia UE](https://flathub.org/apps/ca._0ldsk00l.Nestopia)
-- [PCSX2](https://flathub.org/apps/net.pcsx2.PCSX2)
-- [PPSSPP](https://flathub.org/apps/org.ppsspp.PPSSPP)
-- [Rosalie's Mupen GUI](https://flathub.org/apps/com.github.Rosalie241.RMG)
-- [Snes9x](https://flathub.org/apps/com.snes9x.Snes9x)
-- [mGBA](https://flathub.org/apps/io.mgba.mGBA)
+- ![desmume.png](icons/desmume.png) [DeSmuME](https://flathub.org/apps/org.desmume.DeSmuME)
+- ![dolphin-emulator.png](icons/dolphin-emulator.png) [Dolphin Emulator](https://flathub.org/apps/org.DolphinEmu.dolphin-emu)
+- ![duckstation.png](icons/duckstation.png) [DuckStation](https://flathub.org/apps/org.duckstation.DuckStation)
+- ![mame.png](icons/mame.png) [MAME](https://flathub.org/apps/org.mamedev.MAME)
+- ![nestopia-ue.png](icons/nestopia-ue.png) [Nestopia UE](https://flathub.org/apps/ca._0ldsk00l.Nestopia)
+- ![pcsx2.png](icons/pcsx2.png) [PCSX2](https://flathub.org/apps/net.pcsx2.PCSX2)
+- ![ppsspp.png](icons/ppsspp.png) [PPSSPP](https://flathub.org/apps/org.ppsspp.PPSSPP)
+- ![rosalies-mupen-gui.png](icons/rosalies-mupen-gui.png) [Rosalie's Mupen GUI](https://flathub.org/apps/com.github.Rosalie241.RMG)
+- ![snes9x.png](icons/snes9x.png) [Snes9x](https://flathub.org/apps/com.snes9x.Snes9x)
+- ![mgba.png](icons/mgba.png) [mGBA](https://flathub.org/apps/io.mgba.mGBA)
 
 ---
 
-_latest update: 2024-12-18 10:22 AM_
+_latest update: 2024-12-18 11:18 AM_
