@@ -4,7 +4,6 @@ These scripts automatically add the Flathub repositories if they are not already
 
 You can check the contents of the script before executing it by clicking on the script title, such as "flatpak-tools-installer.sh." This will take you directly to the raw file, where you can ensure that there is no harmful or suspicious code in the scripts if you are unsure of their trustworthiness.
 
-
 ## [flatpak-tools-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-tools-installer.sh)
 
 ```
@@ -13,7 +12,6 @@ curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/
 
 - [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal) # Manage Flatpak permissions.
 - [Flatsweep](https://flathub.org/apps/io.github.giantpinkrobots.flatsweep) # Flatpak leftover cleaner.
-
 
 ## [flatpak-gaming-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-gaming-installer.sh)
 
@@ -33,7 +31,6 @@ curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/
 - [Steam](https://flathub.org/apps/com.valvesoftware.Steam)
 - [Steam Link](https://flathub.org/apps/com.valvesoftware.SteamLink)
 - [itch](https://flathub.org/apps/io.itch.itch)
-
 
 ## [flatpak-emulator-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-emulator-installer.sh)
 
