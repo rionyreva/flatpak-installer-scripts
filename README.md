@@ -7,7 +7,7 @@ You can check the contents of the script before executing it by clicking on the 
 ## [flatpak-tools-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/--user/flatpak-tools-installer.sh)
 
 ```
-curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-tools-installer.sh  | bash
+curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/--user/flatpak-tools-installer.sh  | bash
 ```
 
 - ![flatseal.png](icons/flatseal.png) [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal)
@@ -17,7 +17,7 @@ curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/
 ## [flatpak-browser-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/--user/flatpak-browser-installer.sh)
 
 ```
-curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-browser-installer.sh  | bash
+curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/--user/flatpak-browser-installer.sh  | bash
 ```
 
 - ![brave.png](icons/brave.png) [Brave](https://flathub.org/apps/com.brave.Browser)
@@ -28,7 +28,7 @@ curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/
 ## [flatpak-gaming-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/--user/flatpak-gaming-installer.sh)
 
 ```
-curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-gaming-installer.sh  | bash
+curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/--user/flatpak-gaming-installer.sh  | bash
 ```
 
 - ![bolt-launcher.png](icons/bolt-launcher.png) [Bolt Launcher](https://flathub.org/apps/com.adamcake.Bolt)
@@ -47,7 +47,7 @@ curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/
 ## [flatpak-emulator-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/--user/flatpak-emulator-installer.sh)
 
 ```
-curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-gaming-installer.sh  | bash
+curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/--user/flatpak-gaming-installer.sh  | bash
 ```
 
 - ![desmume.png](icons/desmume.png) [DeSmuME](https://flathub.org/apps/org.desmume.DeSmuME)
