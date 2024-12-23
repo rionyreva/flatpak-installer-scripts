@@ -61,6 +61,21 @@ curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/
 - ![snes9x.png](icons/snes9x.png) [Snes9x](https://flathub.org/apps/com.snes9x.Snes9x)
 - ![mgba.png](icons/mgba.png) [mGBA](https://flathub.org/apps/io.mgba.mGBA)
 
+## [flatpak-kde-applications-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/--user/flatpak-kde-applications-installer.sh)
+
+```
+curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/--user/flatpak-kde-applications-installer.sh  | bash
+```
+
+- ![kclock.png](icons/kclock.png) [Clock](https://flathub.org/apps/org.kde.kclock)
+- ![ghostwriter.png](icons/ghostwriter.png) [Ghostwriter](https://flathub.org/apps/org.kde.ghostwriter)
+- ![kate.png](icons/kate.png) [Kate](https://flathub.org/apps/org.kde.kate)
+- ![kdenlive.png](icons/kdenlive.png) [Kdenlive](https://flathub.org/apps/org.kde.kdenlive)
+- ![kfind.png](icons/kfind.png) [KFind](https://flathub.org/apps/org.kde.kfind)
+- ![kleopatra.png](icons/kleopatra.png) [Kleopatra](https://flathub.org/apps/org.kde.kleopatra)
+- ![krename.png](icons/krename.png) [Krename](https://flathub.org/apps/org.kde.krename)
+- ![yakuake.png](icons/yakuake.png) [Yakuake](https://flathub.org/apps/org.kde.yakuake)
+- 
 ---
 
-_latest update: 2024-12-23 02:25 PM_
+_latest update: 2024-12-23 02:52 PM_
