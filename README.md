@@ -4,16 +4,17 @@ These scripts automatically add the Flathub repositories if they are not already
 
 You can check the contents of the script before executing it by clicking on the script title, such as "flatpak-tools-installer.sh." This will take you directly to the raw file, where you can ensure that there is no harmful or suspicious code in the scripts if you are unsure of their trustworthiness.
 
-## [flatpak-tools-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-tools-installer.sh)
+## [flatpak-tools-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/--user/flatpak-tools-installer.sh)
 
 ```
 curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-tools-installer.sh  | bash
 ```
 
-- ![flatseal.png](icons/flatseal.png) [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal) # Manage Flatpak permissions.
-- ![flatsweep.png](icons/flatsweep.png) [Flatsweep](https://flathub.org/apps/io.github.giantpinkrobots.flatsweep) # Flatpak leftover cleaner.
+- ![flatseal.png](icons/flatseal.png) [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal)
+- ![flatsweep.png](icons/flatsweep.png) [Flatsweep](https://flathub.org/apps/io.github.giantpinkrobots.flatsweep)
+- ![github-desktop.png](icons/github-desktop.png) [GitHub Desktop](https://flathub.org/apps/io.github.shiftey.Desktop)
 
-## [flatpak-browser-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-browser-installer.sh)
+## [flatpak-browser-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/--user/flatpak-browser-installer.sh)
 
 ```
 curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-browser-installer.sh  | bash
@@ -24,7 +25,7 @@ curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/
 - ![mullvad-browser.png](icons/mullvad-browser.png) [Mullvad Browser](https://flathub.org/apps/net.mullvad.MullvadBrowser)
 - ![tor-browser.png](icons/tor-browser.png) [Tor Browser](https://flathub.org/apps/org.torproject.torbrowser-launcher)
 
-## [flatpak-gaming-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-gaming-installer.sh)
+## [flatpak-gaming-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/--user/flatpak-gaming-installer.sh)
 
 ```
 curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-gaming-installer.sh  | bash
@@ -43,7 +44,7 @@ curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/
 - ![steam-link.png](icons/steam-link.png) [Steam Link](https://flathub.org/apps/com.valvesoftware.SteamLink)
 - ![itch.png](icons/itch.png) [itch](https://flathub.org/apps/io.itch.itch)
 
-## [flatpak-emulator-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-emulator-installer.sh)
+## [flatpak-emulator-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/--user/flatpak-emulator-installer.sh)
 
 ```
 curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/flatpak-gaming-installer.sh  | bash
@@ -62,4 +63,4 @@ curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/
 
 ---
 
-_latest update: 2024-12-18 11:18 AM_
+_latest update: 2024-12-23 02:25 PM_
