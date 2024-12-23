@@ -13,6 +13,7 @@ curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/
 - ![flatseal.png](icons/flatseal.png) [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal)
 - ![flatsweep.png](icons/flatsweep.png) [Flatsweep](https://flathub.org/apps/io.github.giantpinkrobots.flatsweep)
 - ![github-desktop.png](icons/github-desktop.png) [GitHub Desktop](https://flathub.org/apps/io.github.shiftey.Desktop)
+- ![keepassxc.png](icons/keepassxc.png) [KeePassXC](https://flathub.org/apps/org.keepassxc.KeePassXC)
 
 ## [flatpak-browser-installer.sh](https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/refs/heads/main/scripts/--user/flatpak-browser-installer.sh)
 

@@ -13,6 +13,7 @@ apps=(
   com.github.tchx84.Flatseal
   io.github.giantpinkrobots.flatsweep
   io.github.shiftey.Desktop
+  org.keepassxc.KeePassXC
 )
 
 # Install each application for the user.
