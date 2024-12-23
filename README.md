@@ -74,9 +74,11 @@ curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/
 - ![kdenlive.png](icons/kdenlive.png) [Kdenlive](https://flathub.org/apps/org.kde.kdenlive)
 - ![kfind.png](icons/kfind.png) [KFind](https://flathub.org/apps/org.kde.kfind)
 - ![kleopatra.png](icons/kleopatra.png) [Kleopatra](https://flathub.org/apps/org.kde.kleopatra)
+- ![konversation.png](icons/konversation.png) [Konversation](https://flathub.org/apps/org.kde.konversation)
 - ![krename.png](icons/krename.png) [Krename](https://flathub.org/apps/org.kde.krename)
+- ![neochat.png](icons/neochat.png) [NeoChat](https://flathub.org/apps/org.kde.neochat)
 - ![yakuake.png](icons/yakuake.png) [Yakuake](https://flathub.org/apps/org.kde.yakuake)
-- 
+
 ---
 
-_latest update: 2024-12-23 03:05 PM_
+_latest update: 2024-12-23 07:23 PM_

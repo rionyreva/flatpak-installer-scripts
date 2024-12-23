@@ -18,6 +18,8 @@ apps=(
   org.kde.kleopatra
   org.kde.krename
   org.kde.yakuake
+  org.kde.neochat
+  org.kde.konversation
 )
 
 # Install each application for the user.
