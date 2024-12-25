@@ -10,16 +10,17 @@ fi
 
 # List of applications to install. Specify multiple packages in a new line.
 apps=(
-  org.kde.ghostwriter
-  org.kde.kate
-  org.kde.kclock
-  org.kde.kdenlive
-  org.kde.kfind
-  org.kde.kleopatra
-  org.kde.krename
-  org.kde.yakuake
-  org.kde.neochat
-  org.kde.konversation
+org.kde.ghostwriter
+org.kde.kate
+org.kde.kclock
+org.kde.kdenlive
+org.kde.kfind
+org.kde.kleopatra
+org.kde.konversation
+org.kde.krename
+org.kde.neochat
+org.kde.yakuake
+org.kde.kcolorchooser
 )
 
 # Install each application for the user.

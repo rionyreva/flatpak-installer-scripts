@@ -19,3 +19,30 @@ flatpak install flathub --user com.orama_interactive.Pixelorama
 flatpak install flathub org.kde.konversation
 
 flatpak install flathub org.kde.neochat
+
+flatpak install flathub com.makemkv.MakeMKV
+
+https://flathub.org/apps/io.mpv.Mpv
+
+https://flathub.org/apps/org.videolan.VLC
+
+https://flathub.org/apps/net.codelogistics.webapps
+
+https://flathub.org/apps/fr.handbrake.ghb
+https://flathub.org/apps/com.github.Bleuzen.FFaudioConverter
+
+https://flathub.org/apps/org.rncbc.qpwgraph
+https://flathub.org/apps/org.onlyoffice.desktopeditors
+https://flathub.org/apps/com.yubico.yubioath BETA fixed pcscd!
+
+
+com.obsproject.Studio
+com.obsproject.Studio.Plugin.VerticalCanvas
+com.obsproject.Studio.Plugin.OBSVkCapture
+org.freedesktop.Platform.VulkanLayer.OBSVkCapture
+com.obsproject.Studio.Plugin.OBSLivesplitOne
+com.obsproject.Studio.Plugin.Gstreamer
+com.obsproject.Studio.Plugin.GStreamerVaapi
+com.obsproject.Studio.Plugin.DroidCam
+com.obsproject.Studio.Plugin.CompositeBlur
+com.obsproject.Studio.Plugin.AitumMultistream

@@ -78,6 +78,7 @@ curl -sSL https://raw.githubusercontent.com/rionyreva/flatpak-installer-scripts/
 - ![krename.png](icons/krename.png) [Krename](https://flathub.org/apps/org.kde.krename)
 - ![neochat.png](icons/neochat.png) [NeoChat](https://flathub.org/apps/org.kde.neochat)
 - ![yakuake.png](icons/yakuake.png) [Yakuake](https://flathub.org/apps/org.kde.yakuake)
+- ![kcolorchooser.png](icons/kcolorchooser.png) [KColorChooser](https://flathub.org/apps/org.kde.kcolorchooser)
 
 ---
 
