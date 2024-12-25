@@ -34,7 +34,7 @@ https://flathub.org/apps/com.github.Bleuzen.FFaudioConverter
 https://flathub.org/apps/org.rncbc.qpwgraph
 https://flathub.org/apps/org.onlyoffice.desktopeditors
 https://flathub.org/apps/com.yubico.yubioath BETA fixed pcscd!
-
+https://flathub.org/apps/org.cryptomator.Cryptomator
 
 com.obsproject.Studio
 com.obsproject.Studio.Plugin.VerticalCanvas
